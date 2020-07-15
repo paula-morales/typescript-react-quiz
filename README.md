@@ -1,8 +1,9 @@
 ## You can check the deployed site [here](https://quiz-typescript.netlify.app/)
 
 ## Technologies used
-- Typescript
+- TypeScript
 - React
+- HTML
 - Styled-Components
 
 ## Goals for this project
